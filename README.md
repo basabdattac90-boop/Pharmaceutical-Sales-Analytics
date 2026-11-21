@@ -60,6 +60,3 @@ An interactive Tableau dashboard was developed to present:
 The analysis provides insights into pharmaceutical sales performance, category-wise contribution, temporal trends and differences in daily sales patterns.
 ## Author
 Basabdatta Chatterjee
-
-## Author
-[Your Name]
